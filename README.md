@@ -3,6 +3,8 @@
 ## About project: 
 The goal of the program is to generate images using the Raytracing protocol. 
 
+In 3D computer graphics, ray tracing is a technique for modeling light transport for use in a wide variety of rendering algorithms for generating digital images.
+
 The supported these simple geometric object: sphere, cylinder, plane and paraboloid (for a bonus part of subject).
 
 This program can apply translation and rotation transformations to objects, lights and cameras. Lighting control: spot brightness, hard shadows, background lighting (objects are never in total darkness). Implemented ambient and diffuse lighting, added specular reflection and color disruption: checkerboard.
