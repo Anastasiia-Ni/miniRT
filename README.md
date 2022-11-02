@@ -1,9 +1,10 @@
 # MiniRT
 
 ## About project: 
-The goal of the program is to generate images using the Raytracing protocol. 
 
 In 3D computer graphics, ray tracing is a technique for modeling light transport for use in a wide variety of rendering algorithms for generating digital images.
+
+The goal of the program is to generate images using the Raytracing protocol. 
 
 The supported these simple geometric object: sphere, cylinder, plane and paraboloid (for a bonus part of subject).
 
